@@ -23,3 +23,5 @@ Sample applications are found in the ./samples directory
 A "Quick Start" guide is available at https://github.com/clojure/clojurescript/wiki/Quick-Start
 
 
+
+Join the chat at https://gitter.im/ams-clj/clojurescript
